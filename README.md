@@ -6,7 +6,7 @@
 - 🌱 Estudando JAVA com foco em Dev. JAVA Full Stack e Back End;
 
 <div>
-  <a href="https://www.linkedin.com/in/vinicius-oliveira-616403216/">
+  <a href="https://github.com/TheeCronos">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TheeCronos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheeCronos&layout=count=8&langs_count=7&theme=gotham"/>
 </div>
