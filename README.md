@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente em busca de trabalho;
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas (2° Semestre);
-- 🌱 Estudando JAVA com foco em Dev. JAVA Full Stack e Back End;
+- 🌱 Estudando JAVA com foco em Dev. JAVA Back End;
 
 <div>
   <a href="https://github.com/TheeCronos">
