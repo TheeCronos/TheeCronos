@@ -1,10 +1,19 @@
-## Olá! Meu nome é Vinicius!
 
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
+
+# Olá! Meu nome é Vinicius!
+
+<br>
+<br>
 
 - 🔭 Atualmente em busca de trabalho;
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas (2° Semestre);
 - 🌱 Estudando JAVA com foco em Dev. JAVA Back End;
-
+	
+<br>
+<br>
+	
 <div>
   <a href="https://github.com/TheeCronos">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TheeCronos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
