@@ -39,4 +39,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=TheeCronos&color=green">
 
-
+![Snake animation](https://github.com/TheeCronos/TheeCronos/blob/output/github-contribution-grid-snake.svg)
