@@ -1,4 +1,4 @@
-
+<a href="https://github.com/TheeCronos">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
 
@@ -38,5 +38,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=TheeCronos&color=green">
+
+<a href="https://github.com/TheeCronos">
 
 ![Snake animation](https://github.com/TheeCronos/TheeCronos/blob/output/github-contribution-grid-snake.svg)
