@@ -29,7 +29,7 @@
 </div>
 
 <a href="https://github.com/TheeCronos">
-<img src="https://media1.giphy.com/media/2igJeqa7RaLW8AZZGD/giphy.gif?cid=790b7611cee914693fd0963bb7b1a1ac3babb569c933470e&rid=giphy.gif&ct=s" min-width="170px" max-width="170px" width="170px" align="right" alt="notebook wcfx">
+<img src="https://media1.giphy.com/media/2igJeqa7RaLW8AZZGD/giphy.gif?cid=790b7611cee914693fd0963bb7b1a1ac3babb569c933470e&rid=giphy.gif&ct=s" min-width="150px" max-width="150px" width="150px" align="right" alt="notebook wcfx">
 	
 #### Contatos:
 
