@@ -17,7 +17,7 @@
 <div>
   <a href="https://github.com/TheeCronos">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TheeCronos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheeCronos&hide=html&layout=compact&theme=gotham"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheeCronos&layout=compact&langs_count=16&theme=gotham"/>
 </div>
 	
 #### Linguagens: 
