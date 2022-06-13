@@ -7,7 +7,6 @@
 <br>
 <br>
 
-- 🔭 Em busca de oportunidade;
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas (2° Semestre);
 - 🌱 Estudando JAVA com foco em Dev. JAVA Back End;
 	
