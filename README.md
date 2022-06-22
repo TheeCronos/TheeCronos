@@ -7,7 +7,7 @@
 <br>
 <br>
 
-- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas (3° Semestre);
+- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas;
 - 🌱 Estudando JAVA com foco em Dev. JAVA Back End;
 	
 <br>
