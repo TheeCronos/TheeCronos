@@ -43,11 +43,10 @@
 	<a href="https://www.instagram.com/viny_os/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
 </div>
 
+![Snake animation](https://github.com/TheeCronos/TheeCronos/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=TheeCronos&color=green" align="center">
 </div>
 
 <a href="https://github.com/TheeCronos" align="left">
-
-![Snake animation](https://github.com/TheeCronos/TheeCronos/blob/output/github-contribution-grid-snake.svg)
-
