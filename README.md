@@ -13,38 +13,41 @@
 <br>
 <br>
 	
-<div>
-  <a href="https://github.com/TheeCronos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TheeCronos&theme=tokyonight&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheeCronos&hide=html&layout=compact&theme=tokyonight"/>
+<div align="left">
+	<a href="https://github.com/TheeCronos">
+	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=TheeCronos&theme=tokyonight&show_icons=true"/>
+	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheeCronos&hide=html&layout=compact&theme=tokyonight"/>
+</div>
+<br>
+	
+<div style="display: inline_block" align="left">
+	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+	<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" "/>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 	
-#### Linguagens: 
-	
-<div>
-<a href="https://github.com/TheeCronos" target="_blank"> <img height="10em"src="[BadgeURLAqui](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)" align="center"/>
-<a href="https://github.com/TheeCronos" target="_blank"> <img src="[BadgeURLAqui](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)" align="center"/>
-<a href="https://github.com/TheeCronos" target="_blank"> <img src="[BadgeURLAqui](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)" align="center"/>
-<a href="https://github.com/TheeCronos" target="_blank"> <img src="[BadgeURLAqui](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)" align="center"/>
-<a href="https://github.com/TheeCronos" target="_blank"> <img src="[BadgeURLAqui](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)" align="center"/>
-<a href="https://github.com/TheeCronos" target="_blank"> <img src="[BadgeURLAqui](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)" align="center"/>
-<a href="https://github.com/TheeCronos" target="_blank"> <img src="[BadgeURLAqui](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" align="center"/>
-<a href="https://github.com/TheeCronos" target="_blank"> <img src="[BadgeURLAqui](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" align="center"/>
-<a href="https://github.com/TheeCronos" target="_blank"> <img src="[BadgeURLAqui](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" align="center"/>
-<div/>
-	
-#### Contatos:
+##
 
+<div align="center">
+	<a href="https://www.linkedin.com/in/vinicius-oliveiraa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
+	<a href="https://t.me/TheeCronos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" ></a> 
+	<a href="https://api.whatsapp.com/send?phone=5561982324559" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" ></a> 
+	<a href="mailto:vinicius.o.s@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" ></a>
+	<a href="https://www.instagram.com/viny_os/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
 </div>
-	<a href="https://www.linkedin.com/in/vinicius-oliveiraa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
-	<a href="https://t.me/TheeCronos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" align="center"></a> 
-	<a href="https://api.whatsapp.com/send?phone=5561982324559" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" align="center"></a> 
-	<a href="mailto:vinicius.o.s@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" align="center"></a>
-	<a href="https://www.instagram.com/viny_os/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="center"></a>
-</div>
-	
-<img src="https://komarev.com/ghpvc/?username=TheeCronos&color=green">
 
-<a href="https://github.com/TheeCronos">
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=TheeCronos&color=green" align="center">
+</div>
+
+<a href="https://github.com/TheeCronos" align="left">
 
 ![Snake animation](https://github.com/TheeCronos/TheeCronos/blob/output/github-contribution-grid-snake.svg)
+
