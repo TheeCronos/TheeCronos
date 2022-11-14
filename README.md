@@ -15,8 +15,7 @@
 
 <div align="left">
 	<a href="https://github.com/TheeCronos">
-	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=TheeCronos&theme=tokyonight&show_icons=true">
-	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheeCronos&hide=html&layout=compact&theme=tokyonight">
+
 </div>
 <br>
 
