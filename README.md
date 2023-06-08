@@ -8,7 +8,8 @@
 <br>
 
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas;
-- 🌱 Estudando JAVA com foco em Dev. JAVA Back End;
+- 🌱 Estudando para me tornar um Desenvolvedor Fullstack com foco em React e Node;
+- 📚 Atualmente estudando Html, Css, Javascript, Angular, Node e logo logo indo para React;
 
 <br>
 <br>
