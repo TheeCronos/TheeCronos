@@ -7,7 +7,8 @@
 <br>
 <br>
 
-- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas;
+- 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas;
+- 👨‍🎓 Cursando Pós Graduação em Engenharia de Software;
 - 🌱 Estudando para me tornar um Desenvolvedor Fullstack com foco em Angular/React e Node;
 - 📚 Atualmente estudando Html, Css, Javascript, Angular, React e Node;
 
