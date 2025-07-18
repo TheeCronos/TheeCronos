@@ -4,15 +4,14 @@
 
 # Olá! Meu nome é Vinicius!
 
-<br><br><br><br>
+<br><br>
 
 - 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas;
 - 👨‍🎓 Pós Graduado em Engenharia de Software;
 - 💡 Apaixonado em novas tecnologias com foco crescente em IA;
 - 💻 Construo experiências digitais com tecnologia acessível, inteligente e com personalidade;
 
-<br>
-<br>
+<br><br>
 
 <div align="center">
 	<a href="https://github.com/TheeCronos">
