@@ -1,7 +1,7 @@
 <a href="https://github.com/TheeCronos">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
-
+<br><br>
 # Olá! Meu nome é Vinicius!
 
 <br>
