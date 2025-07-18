@@ -4,14 +4,14 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
 
-<br>
+<br><br>
 
 - 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas;
 - 👨‍🎓 Pós Graduado em Engenharia de Software;
 - 💡 Apaixonado em novas tecnologias com foco crescente em IA;
 - 💻 Construo experiências digitais com tecnologia acessível, inteligente e com personalidade;
 
-<br><br>
+<br><br><br>
 
 <div align="center">
 	<a href="https://github.com/TheeCronos">
