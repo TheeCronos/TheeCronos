@@ -8,9 +8,10 @@
 <br>
 
 - 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas;
-- 👨‍🎓 Cursando Pós Graduação em Engenharia de Software;
-- 🌱 Estudando para me tornar um Desenvolvedor Fullstack com foco em Angular/React e Node;
-- 📚 Atualmente estudando Html, Css, Javascript, Angular, React e Node;
+- 👨‍🎓 Pós Graduado em Engenharia de Software;
+- 💡 Apaixonado em novas tecnologias com foco crescente em IA;
+- 💻 Tecnologias e plataformas que utilizo para transformar ideias em soluções digitais modernas, acessíveis e escaláveis:
+      - Lovable | Bubble | Bolt | Codex | Perplexity | Manus 
 
 <br>
 <br>
