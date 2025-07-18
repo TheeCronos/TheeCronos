@@ -6,6 +6,7 @@
 
 <br><br>
 
+- 💲 Cofundador da Ascend Labs;
 - 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas;
 - 👨‍🎓 Pós Graduado em Engenharia de Software;
 - 💡 Apaixonado em novas tecnologias com foco crescente em IA;
