@@ -4,7 +4,7 @@
 
 # Olá! Meu nome é Vinicius!
 
-<br><br>
+<br>
 
 - 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas;
 - 👨‍🎓 Pós Graduado em Engenharia de Software;
