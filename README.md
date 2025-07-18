@@ -11,7 +11,7 @@
 - 👨‍🎓 Pós Graduado em Engenharia de Software;
 - 💡 Apaixonado em novas tecnologias com foco crescente em IA;
 - 💻 Tecnologias e plataformas que utilizo para transformar ideias em soluções digitais modernas, acessíveis e escaláveis:
-      - Lovable | Bubble | Bolt | Codex | Perplexity | Manus 
+     <br> - Lovable | Bubble | Bolt | Codex | Perplexity | Manus 
 
 <br>
 <br>
