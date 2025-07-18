@@ -26,6 +26,7 @@
 	<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Bubble-0078D4?style=for-the-badge&logo=bubble&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Bolt-black?style=for-the-badge&logo=Bolt&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 	<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 	<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
